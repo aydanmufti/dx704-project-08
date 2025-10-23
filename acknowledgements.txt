@@ -1,0 +1,9 @@
+Discussed assignment with:
+No one
+
+Libraries used:
+- random: For implementing random and epsilon-greedy policies
+- csv: For reading and writing TSV files
+
+Additional resources:
+I used the lecture materials provided in the course, including the project files and lecture videos on Q-learning algorithms.
